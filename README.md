@@ -1,0 +1,2 @@
+# CompuKids — protótipo inicial
+Abra index.html no navegador ou publique os arquivos em hospedagem estática. Sem dependências externas. Primeiro jogo com 18 desafios, três mecânicas, duas dificuldades, pontuação por sessão, áudio opcional e guia docente. As demais etapas são marcadas como em desenvolvimento. Ainda não inclui PWA, sprites profissionais, campanha extensa ou cobertura integral da BNCC. O áudio de voz depende do navegador. Não há coleta de dados.
